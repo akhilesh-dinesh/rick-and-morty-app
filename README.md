@@ -2,6 +2,8 @@
 
 # Rick and Morty Character Explorer
 
+Find the Live demo for this project at https://akhilesh-dinesh-rick-and-morty.vercel.app/
+
 This is a React + TypeScript application built with Vite that allows users to explore characters from the Rick and Morty universe. It features a paginated character list, detailed character information, and a responsive design.
 
 ## Features

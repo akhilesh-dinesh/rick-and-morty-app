@@ -16,6 +16,7 @@ export const Home: React.FC = () => {
   }, [currentPage]);
 
   const handlePageChange = (newPage: number) => {
+    // @ts-expect-error
     navigate({ search: { page: String(newPage) } });
   };
 
